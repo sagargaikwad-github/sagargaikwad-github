@@ -27,8 +27,11 @@ I have a passion for programming particularly in Java.
 [![CodeChecf](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/)
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)](https://www.w3schools.com/java/)
 
+
+
 ### Check Resume : 
-[Resume](https://drive.google.com/file/d/1VxCEpPaeMwyVo6PiYuYYZNkV3zn7NJaY/view?usp=drive_link)
+[Click For Resume](https://drive.google.com/file/d/1VxCEpPaeMwyVo6PiYuYYZNkV3zn7NJaY/view?usp=drive_link)
+
 
 
 ### Contact me:
