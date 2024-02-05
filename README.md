@@ -6,9 +6,8 @@ I am originally from [Satara](https://en.wikipedia.org/wiki/Satara_(city)) but c
 I have a passion for programming particularly in Java.
 
 ### Talking about Personal Stuff:
-
-- 👨🏽‍💻 I’m currently seeking a JOB;
-- 📲 More than 1+ year of professional experience in Android development;
+ 
+- 👨🏽‍💻 More than 1+ year of professional experience in Android development;
 - 🤔 My interests lie in Android, Java, and Kotlin programming...;
 - 💼 I pursued a Master's degree in Computer Science in 2022;
 - 💬 Ask me about anything, I am happy to help;
