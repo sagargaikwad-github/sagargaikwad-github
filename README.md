@@ -29,7 +29,7 @@ I have a passion for programming particularly in Java.
 
 
 ### Check Resume : 
-[Click For Resume](https://drive.google.com/drive/folders/1U_HQoK1I8zOUQ5z-N0DoNshqbCAPwfp_)
+[Click For Resume](https://drive.google.com/file/d/1bUYy3Wbygvv9i6hVsmy4nYKMv6lbr15Y/view?usp=sharing)
 
 
 
