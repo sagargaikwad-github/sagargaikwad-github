@@ -1,13 +1,13 @@
 
 ## Hey 👋, I'm Sagar Gaikwad
 
-I am originally from [Satara](https://en.wikipedia.org/wiki/Satara_(city)) but currently living in Pune.
+I am from Satara, but I currently live in Pune.
 
 I have a passion for programming particularly in Java.
 
 ### Talking about Personal Stuff:
  
-- 📲 More than 1+ year of professional experience in Android development;
+- 📲 More than 2+ years of professional experience in Android development;
 - 🤔 My interests lie in Android, Java, and Kotlin programming...;
 - 💼 I pursued a Master's degree in Computer Science in 2022;
 - 💬 Ask me about anything, I am happy to help;
